@@ -5,7 +5,7 @@ import Main from "./Main";
 
 function Card() {
   return (
-    <div className="card text-textColor w-headerWidth">
+    <div className="text-textColor w-headerWidth">
       <Header />
       <Main />
       <Footer />

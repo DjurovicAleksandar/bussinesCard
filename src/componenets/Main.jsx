@@ -3,7 +3,7 @@ import linkedin from "../assets/imgs/linkedin.png";
 
 function Main() {
   return (
-    <div className="bg-mainBg w-full px-cardX py-cardY">
+    <div className="bg-mainBg px-cardX py-cardY">
       <div className="text-center">
         <h1 className="text-title text-titleColor font-bold">Laura Smith</h1>
         <h5 className="text-subTitle text-subColor">Frontend Developer</h5>

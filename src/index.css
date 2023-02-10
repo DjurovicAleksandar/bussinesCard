@@ -15,7 +15,14 @@
 html {
   scroll-behavior: smooth;
   font-size: 62.5%;
+}
+body {
+  height: 100vh;
+  background-color: #23252c;
   font-family: "Inter", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 image {
@@ -35,11 +42,4 @@ image {
 
 h2 {
   font-weight: 700;
-}
-
-.card {
-  margin: 0 auto;
-}
-.App {
-  padding: 4rem 0;
 }
