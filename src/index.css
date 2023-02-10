@@ -32,6 +32,14 @@ image {
   align-items: center;
   gap: 1rem;
 }
+
 h2 {
   font-weight: 700;
+}
+
+.card {
+  margin: 0 auto;
+}
+.App {
+  padding: 4rem 0;
 }
